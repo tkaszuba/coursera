@@ -1,0 +1,38 @@
+### Spoon (user specific machine settings) ###
+.spoonrc
+.languageChoice
+**/.kettle/db.cache*
+**/.kettle/shared.xml*
+
+### Mac ###
+.DS_Store
+/target/
+**/lib_managed/**
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.worksheet
+.cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/nbproject/
+
