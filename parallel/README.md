@@ -1,4 +1,5 @@
-# all assignments from coursera course "parallel programming in scala"
+# parallel programming
+All assignments from coursera course
 
 Code
 
