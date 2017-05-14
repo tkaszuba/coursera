@@ -3,6 +3,7 @@
 .languageChoice
 **/.kettle/db.cache*
 **/.kettle/shared.xml*
+**/bin/**
 
 ### Mac ###
 .DS_Store
@@ -20,6 +21,9 @@ target/
 .springBeans
 .worksheet
 .cache
+.cache-main
+.cache-tests
+.metadata
 
 ### IntelliJ IDEA ###
 .idea
